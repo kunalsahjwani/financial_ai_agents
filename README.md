@@ -158,13 +158,10 @@ Uses Groq's Llama 3.1 8B model to evaluate RAG system outputs across several key
 - No user data is stored or transmitted outside the application
 - All analysis happens within the application's runtime environment
 
-## 📜 License
 
-[MIT License](LICENSE)
 
 ## 🙏 Acknowledgments
 
 - Based on the Agno framework for agent orchestration
 - Uses Groq for LLM inference
 - Utilizes PgVector for embeddings storage
-- Inspired by DataCamp's Financial AI Agents workshop
