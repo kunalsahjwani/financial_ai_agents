@@ -1,0 +1,5 @@
+echo ".env"
+echo "venv/"
+echo "__pycache__/"
+echo "*.pyc"
+echo ".streamlit/secrets.toml"

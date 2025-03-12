@@ -1,0 +1,15 @@
+groq
+yfinance
+agno
+duckduckgo-search
+newspaper4k
+lxml_html_clean
+sqlalchemy
+psycopg[binary]
+pgvector
+pypdf
+sentence-transformers
+python-dotenv
+python-dotenv
+streamlit
+openai
